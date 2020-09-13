@@ -1,6 +1,6 @@
 s3_conf:
-  access_key: AKIAURNMC6NN2E3WCTC4
-  secret_access_key: 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
+  access_key: aaa
+  secret_access_key: aaa
   s3_bucket: subhayan-bucket
 
 sftp_conf:
